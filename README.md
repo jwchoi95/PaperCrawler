@@ -17,3 +17,8 @@ This is an example of collecting papers from WoS search engine.
 2. 'Crawler' provides a set of HTML tags for each url. Here, HTML is a semi-structured data format, and thus parsing is necessary.
     ![](./image/html.png)
 
+
+## FYI
+DOI can be used as url (e.g., "https://doi.org/{root_url}").
+test_papers.xlsx include DOI information, and it can be used as input of 'Crawler'.
+
