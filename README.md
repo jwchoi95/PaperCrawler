@@ -4,6 +4,12 @@
 </p>
 This is an example of collecting papers from WoS search enginer.
 
+## Requirements
+- BeautifulSoup
+
+- Selenium
+
+- other general libraries such as time, pandas, numpy
 
 ## Usage
 1. 'Downloader' requires an url link where your search results exist
