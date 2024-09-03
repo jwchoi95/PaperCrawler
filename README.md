@@ -2,7 +2,7 @@
 <h3 align="left">Tutorials for implementing paper crawling from WoS </h3>
 
 </p>
-This is an example of collecting papers from WoS search enginer.
+This is an example of collecting papers from WoS search engine.
 
 ## Requirements
 - BeautifulSoup
